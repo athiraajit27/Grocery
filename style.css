@@ -1,36 +1,3 @@
-.gradient-background 
-{
-  height: auto;
-   background: linear-gradient(50deg, #141414, #6f3ce7, #965b19, #d82518);
-     animation: gradient 6s ease infinite; 
-     background-size: 400% 400%; 
-     
-      
-      
-  
-}
-@-webkit-keyframes gradient{
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-     background-position: 0% 50%;
-  }
-}
-@keyframes gradient{
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-     background-position: 0% 50%;
-  }
-}
 .table {
     margin: 0 auto; 
     width: 80%;
