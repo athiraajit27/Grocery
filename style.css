@@ -1,18 +1,18 @@
 .table {
     margin: 0 auto; 
-    width: 80%;
+    width: 70%;
 }
 h1 {
   text-align: center;
     text-decoration: underline;
-    color: rgb(46, 2, 2);
+    color: solid black;
     font-style: bold;
-    font-weight: 500;
+    font-weight: 600;
   }
 table,
 td {
   border: 2px solid black;
-  color: black;
+  color: #fff;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: x-large;
   font-weight: bolder;
@@ -37,8 +37,8 @@ table {
 }
 td {
   padding: 5px;
-  background-color: hsl(60, 1%, 27%); 
+  background-color: hsl(0, 0%, 0%);
 }
 tr:hover td{
-  background-color: hsl(43, 7%, 80%); 
+  background-color: hsl(45, 91%, 45%);  
 }
