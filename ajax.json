@@ -1,0 +1,93 @@
+{
+    "shopping": [
+      {
+        "Serialno": "1",
+        "Name": "Milk",
+        "Quantity": "1",
+        "Unit": "Litre",
+        "Department": "Dairy",
+        "Notes": "Milma cover"
+      },
+  
+      {
+        "Serialno": "2",
+        "Name": "Tea",
+        "Quantity": "2",
+        "Unit": "Kilograms",
+        "Department": "Red label",
+        "Notes": "Packets"
+      },
+  
+      {
+        "Serialno": "3",
+        "Name": "Rice",
+        "Quantity": "5",
+        "Unit": "Kilogram",
+        "Department": "Mtta",
+        "Notes": "Doublehorse"
+      },
+  
+      {
+        "Serialno": "4",
+        "Name": "Chicken",
+        "Quantity": "2",
+        "Unit": "Kilogram",
+        "Department": "Meat",
+        "Notes": "Fresh Meat"
+      },
+  
+      {
+        "Serialno": "5",
+        "Name": "onion",
+        "Quantity": "5",
+        "Unit": "Kilogram",
+        "Department": "Vegetable",
+        "Notes": "Fresh onion"
+      },
+  
+      {
+        "Serialno": "6",
+        "Name": "carrot",
+        "Quantity": "1",
+        "Unit": "Kilogram",
+        "Department": "Vegetable",
+        "Notes": "Fresh "
+      },
+  
+      {
+        "Serialno": "7",
+        "Name": "Potato",
+        "Quantity": "3",
+        "Unit": "Kilograms",
+        "Department": "Vegetable",
+        "Notes": "Fresh"
+      },
+  
+      {
+        "Serialno": "8",
+        "Name": "Orange",
+        "Quantity": "2",
+        "Unit": "Kilograms",
+        "Department": "Fruits",
+        "Notes": "Fresh"
+      },
+  
+      {
+        "Serialno": "9",
+        "Name": "Ginger-Garlic",
+        "Quantity": "1",
+        "Unit": "Packet",
+        "Department": "Vegetables",
+        "Notes": "Fresh"
+      },
+  
+      {
+        "Serialno": "10",
+        "Name": "salt",
+        "Quantity": "1",
+        "Unit": "Kilogram",
+        "Department": "Ashirvaad",
+        "Notes": "packets"
+      }
+    ]
+  }
