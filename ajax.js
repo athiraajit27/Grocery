@@ -2,27 +2,27 @@ const xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function () {
   if (this.readyState == 4 && this.status == 200) {
     var response = JSON.parse(this.responseText);
-    var Jshopping = response.shopping;
-    var tb1 = document.getElementById("tbl");
-    for (i = 0; i < Jshopping.length; i++) {
-      tbl.innerHTML +=
+    var a = response.shopping;
+    var tb1 = document.getElementById("item_id");
+    for (i = 0; i < a.length; i++) {
+      item_id.innerHTML +=
         "<td>" +
-        Jshopping[i].Serialno +
+        a[i].Serialno +
         "</td>" +
         "<td>" +
-        Jshopping[i].Name +
+        a[i].Name +
         "</td>" +
         "<td>" +
-        Jshopping[i].Quantity +
+        a[i].Quantity +
         "</td>" +
         "<td>" +
-        Jshopping[i].Unit +
+        a[i].Unit +
         "</td>" +
         "<td>" +
-        Jshopping[i].Department +
+        a[i].Department +
         "</td>" +
         "<td>" +
-        Jshopping[i].Notes +
+        a[i].Notes +
         "</td>";
     }
   }
