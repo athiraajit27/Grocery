@@ -2,29 +2,29 @@
     "shopping": [
       {
         "Serialno": "1",
-        "Name": "Milk",
+        "Name": "Sugar",
         "Quantity": "1",
         "Unit": "Litre",
-        "Department": "Dairy",
-        "Notes": "Milma cover"
+        "Department": "Tata",
+        "Notes": "Priced @ 250"
       },
   
       {
         "Serialno": "2",
-        "Name": "Tea",
+        "Name": "Rice",
         "Quantity": "2",
         "Unit": "Kilograms",
-        "Department": "Red label",
-        "Notes": "Packets"
+        "Department": "Nirapara",
+        "Notes": "Priced @ 180"
       },
   
       {
         "Serialno": "3",
-        "Name": "Rice",
+        "Name": "Tea",
         "Quantity": "5",
         "Unit": "Kilogram",
-        "Department": "Mtta",
-        "Notes": "Doublehorse"
+        "Department": "Tea",
+        "Notes": "Priced @ 175"
       },
   
       {
@@ -33,16 +33,16 @@
         "Quantity": "2",
         "Unit": "Kilogram",
         "Department": "Meat",
-        "Notes": "Fresh Meat"
+        "Notes": "Priced @ 175"
       },
   
       {
         "Serialno": "5",
-        "Name": "onion",
+        "Name": "Mutton",
         "Quantity": "5",
         "Unit": "Kilogram",
-        "Department": "Vegetable",
-        "Notes": "Fresh onion"
+        "Department": "Meat",
+        "Notes": "Priced @ 450"
       },
   
       {
@@ -51,43 +51,43 @@
         "Quantity": "1",
         "Unit": "Kilogram",
         "Department": "Vegetable",
-        "Notes": "Fresh "
+        "Notes": "Priced @ 75 "
       },
   
       {
         "Serialno": "7",
-        "Name": "Potato",
+        "Name": "Orange",
         "Quantity": "3",
         "Unit": "Kilograms",
-        "Department": "Vegetable",
-        "Notes": "Fresh"
+        "Department": "Fruits",
+        "Notes": "Priced @ 80"
       },
   
       {
         "Serialno": "8",
-        "Name": "Orange",
+        "Name": "Pineapple",
         "Quantity": "2",
         "Unit": "Kilograms",
         "Department": "Fruits",
-        "Notes": "Fresh"
+        "Notes": "Priced @ 100"
       },
   
       {
         "Serialno": "9",
-        "Name": "Ginger-Garlic",
+        "Name": "Milk",
         "Quantity": "1",
         "Unit": "Packet",
         "Department": "Vegetables",
-        "Notes": "Fresh"
+        "Notes": "Priced @ 25"
       },
   
       {
         "Serialno": "10",
-        "Name": "salt",
-        "Quantity": "1",
+        "Name": "Wheat",
+        "Quantity": "5",
         "Unit": "Kilogram",
-        "Department": "Ashirvaad",
-        "Notes": "packets"
+        "Department": "Pilsbury",
+        "Notes": "Priced @ 200"
       }
     ]
   }
