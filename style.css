@@ -1,0 +1,77 @@
+.gradient-background 
+{
+  height: auto;
+   background: linear-gradient(62deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+     animation: gradient 6s ease infinite; 
+     background-size: 400% 400%; 
+     
+      
+      
+  
+}
+@-webkit-keyframes gradient{
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+     background-position: 0% 50%;
+  }
+}
+@keyframes gradient{
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+     background-position: 0% 50%;
+  }
+}
+.table {
+    margin: 0 auto; 
+    width: 80%;
+}
+h1 {
+  text-align: center;
+    text-decoration: underline;
+    color: rgb(46, 2, 2);
+    font-style: bold;
+    font-weight: 500;
+  }
+table,
+td {
+  border: 2px solid black;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+
+
+th {
+  color: #fff;
+  border: 2px solid black;
+  font-size: x-large;
+  text-align: center;
+  padding: 5px;
+  background-color: hsl(60, 3%, 14%);
+
+}
+table {
+  width: 75%;
+  height: 100%;
+  border-collapse: collapse;
+
+}
+td {
+  padding: 5px;
+  background-color: hsl(60, 1%, 27%); 
+}
+tr:hover td{
+  background-color: hsl(43, 7%, 80%); 
+}
