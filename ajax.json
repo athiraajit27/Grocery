@@ -3,9 +3,9 @@
       {
         "Serialno": "1",
         "Name": "Sugar",
-        "Quantity": "1",
+        "Quantity": "2",
         "Unit": "Litre",
-        "Department": "Tata",
+        "Department": "Essentials",
         "Notes": "Priced @ 250"
       },
   
@@ -14,23 +14,23 @@
         "Name": "Rice",
         "Quantity": "2",
         "Unit": "Kilograms",
-        "Department": "Nirapara",
+        "Department": "Essentials",
         "Notes": "Priced @ 180"
       },
   
       {
         "Serialno": "3",
         "Name": "Tea",
-        "Quantity": "5",
+        "Quantity": "4",
         "Unit": "Kilogram",
-        "Department": "Tea",
+        "Department": "Beverages",
         "Notes": "Priced @ 175"
       },
   
       {
         "Serialno": "4",
         "Name": "Chicken",
-        "Quantity": "2",
+        "Quantity": "5",
         "Unit": "Kilogram",
         "Department": "Meat",
         "Notes": "Priced @ 175"
@@ -48,7 +48,7 @@
       {
         "Serialno": "6",
         "Name": "carrot",
-        "Quantity": "1",
+        "Quantity": "2",
         "Unit": "Kilogram",
         "Department": "Vegetable",
         "Notes": "Priced @ 75 "
@@ -57,7 +57,7 @@
       {
         "Serialno": "7",
         "Name": "Orange",
-        "Quantity": "3",
+        "Quantity": "2",
         "Unit": "Kilograms",
         "Department": "Fruits",
         "Notes": "Priced @ 80"
@@ -66,7 +66,7 @@
       {
         "Serialno": "8",
         "Name": "Pineapple",
-        "Quantity": "2",
+        "Quantity": "5",
         "Unit": "Kilograms",
         "Department": "Fruits",
         "Notes": "Priced @ 100"
@@ -75,9 +75,9 @@
       {
         "Serialno": "9",
         "Name": "Milk",
-        "Quantity": "1",
+        "Quantity": "3",
         "Unit": "Packet",
-        "Department": "Vegetables",
+        "Department": "Essentials",
         "Notes": "Priced @ 25"
       },
   
@@ -86,7 +86,7 @@
         "Name": "Wheat",
         "Quantity": "5",
         "Unit": "Kilogram",
-        "Department": "Pilsbury",
+        "Department": "Essentials",
         "Notes": "Priced @ 200"
       }
     ]
